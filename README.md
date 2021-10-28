@@ -2,13 +2,13 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/dstushar7">Dabobroto Sarkar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/dstushar7">Dabobroto Sarkar</a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I graduated from <a href="https://www.cuet.ac.bd/">Chittagong University of Engineering & Technology<a>.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Django framework. 🧠💻🤖
+- 🏫: I graduated from <a href="https://www.cuet.ac.bd/">Chittagong University of Engineering & Technology</a>.
+- 🔭: I’m currently working on building my <a href="https://dstushar7.github.io/">blog</a>.
+- 🌱: I’m currently learning Penetration Testing. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - 💬: Ask me about Python, Machine Learning, Data Visualization and Linux Tweaks. 📊📈🤖🧠
 - ⚡  Fun fact: I play Soccer and CS-GO! ⚽
