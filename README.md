@@ -7,8 +7,8 @@
 <h1>About Me! 😎</h1>
 
 - 🏫: I graduated from <a href="https://www.cuet.ac.bd/">Chittagong University of Engineering & Technology</a>.
-- 🌱: I’m currently learning Angular. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
+- 🌱: I’m currently learning Kubernetes. 🧠💻🤖
+- 🤔: I’m looking for help with Kubernetes! 😅
 - 💬: Ask me about Java, Spring, Python, Machine Learning, Data Visualization and Linux Tweaks. 📊📈🤖🧠
 - ⚡  Fun fact: I play Soccer and CS-GO! ⚽
   
