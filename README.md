@@ -9,7 +9,7 @@
 - 🏫: I graduated from <a href="https://www.cuet.ac.bd/">Chittagong University of Engineering & Technology</a>.
 - 🌱: I’m currently learning Kubernetes. 🧠💻🤖
 - 🤔: I’m looking for help with Kubernetes! 😅
-- 💬: Ask me about Java, Spring, Python, Machine Learning, Data Visualization and Linux Tweaks. 📊📈🤖🧠
+- 💬: Ask me about Java, Spring Boot, Python. 📊📈🤖🧠
 - ⚡  Fun fact: I play Soccer and CS-GO! ⚽
   
 <hr>
@@ -82,7 +82,7 @@
 <h1 align="center">Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dstushar7&repo=Soccer-ML-Prediction)](https://github.com/dstushar7/Soccer-ML-Prediction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dstushar7&repo=Soccer-ML-Prediction)](https://github.com/dstushar7/converter.thetechguybd.com)
 
 <!-- <Br>
 <hr>
@@ -103,7 +103,7 @@
 <h1 align="center">GitHub Stats! 📊</h1>
 <Br>
   
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=dstushar7&show_icons=true&theme=merko)](https://github.com/dstushar7/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dstushar7&layout=compact&theme=merko)](https://github.com/dstushar7/github-readme-stats)
+[![Dabobroto's github stats](https://github-readme-stats.vercel.app/api?username=dstushar7&show_icons=true&theme=merko)](https://github.com/dstushar7/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dstushar7&layout=compact&theme=merko)](https://github.com/dstushar7/github-readme-stats)
 
  
 <Br>
