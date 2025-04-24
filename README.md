@@ -82,7 +82,7 @@
 <h1 align="center">Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dstushar7&repo=Soccer-ML-Prediction)](https://github.com/dstushar7/converter.thetechguybd.com)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dstushar7&repo=converter.thetechguybd.com)](https://github.com/dstushar7/converter.thetechguybd.com)
 
 <!-- <Br>
 <hr>
